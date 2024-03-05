@@ -11,7 +11,7 @@ Welcome to the Nike Website Landing Page project! This repository contains the s
 
 ## 📸 Preview
 
-![Nike Website Landing Page Screenshot](https://ibb.co/2hcPqsp)
+![Nike Website Landing Page Screenshot](https://raw.githubusercontent.com/kavinthangavel/Nike-Website-Landing_Page/main/src/assets/image_2024-03-06_025224215.png)
 
 ## 🛠 Built With
 
